@@ -1,0 +1,24 @@
+{
+  "study_minutes": {
+    "python": 3
+  },
+  "flashcards": [
+    {
+      "subject": "math",
+      "question": "what is 2+3",
+      "answer": "5"
+    },
+    {
+      "subject": "python",
+      "question": "what is python?",
+      "answer": "python is easily programming language its diagonal type"
+    },
+    {
+      "subject": "python",
+      "question": "what is the python programming?",
+      "answer": "python is a popular,high-level,general-purpose programming language designed to be easy to read and simpleto write"
+    }
+  ],
+  "streak": 1,
+  "last_study_date": "2026-10-23"
+}
